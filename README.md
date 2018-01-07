@@ -1,2 +1,2 @@
 # badang
-An incredible way to learn new languages playing with your friends
+An incredible way to learn new languages playing duels with your friends

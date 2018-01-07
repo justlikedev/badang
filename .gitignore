@@ -103,3 +103,9 @@ ENV/
 
 # database
 *.sqlite3
+
+# VSCODE configurations
+.vscode/
+
+# pylint configurations
+*.pylintrc
